@@ -1,0 +1,30 @@
+[
+  {
+    "generateId": "uuidv4()",
+    "semester": "20191",
+    "courseId": "PH5100",
+    "courseTitle": "Graduation Project",
+    "credits": "9",
+    "process": "9.3",
+    "examination": "8.3",
+    "factor": "0.5",
+    "action": "",
+    "point": "8.8",
+    "grade": "A",
+    "status": ""
+  }, 
+  {
+    "generateId": "uuidv4()",
+    "semester": "20191",
+    "courseId": "PH5000",
+    "courseTitle": "Graduation Practicum",
+    "credits": "3",
+    "process": "9.5",
+    "examination": "9",
+    "factor": "0.5",
+    "action": "",
+    "point": "9.25",
+    "grade": "A",
+    "status": ""
+  }
+]

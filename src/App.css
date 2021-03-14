@@ -1,0 +1,187 @@
+.format-table {
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-top: 30px;
+}
+
+.border-input {
+  border: none;
+}
+
+input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 60px 60px;
+  background-color: #1F568B;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 30px;
+  /* position: absolute; */
+  /* z-index: 5; */
+}
+
+.grid-item {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(201, 200, 200);
+  background: white;
+  box-sizing: border-box;
+  width: 400px;
+  height: 300px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  /* z-index: 1; */
+}
+
+.img3 {
+  display: flex;
+  flex-wrap: nowrap;
+  grid-row-start: 3;
+  margin-left: 50px;
+}
+
+.text {
+  margin-top: 70px;
+  margin-left: 70px;
+}
+
+.my-button {
+  background-color: #1F568B;
+  width: 200px;
+  margin-left: 60px;
+  margin-top: 70px;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  text-transform: none;
+}
+
+.my-searchbox {
+  background-color: #f1f1f1;
+  width: 300px;
+  margin-left: 60px;
+  margin-top: 20px;
+  text-align: start;
+  line-height: 40px;
+  font-size: 15px;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  text-transform: none;
+  color: red;
+  padding-left: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*==Style cơ bản cho website==*/
+body {
+  font-family: sans-serif;
+  color: #333;
+}
+
+/*==Style cho menu===*/
+
+#menu ul {
+  background: #1F568B;
+  list-style-type: none;
+  text-align: center;
+}
+#menu li {
+  color: #f1f1f1;
+  display: inline-block;
+  width: 120px;
+  height: 50px;
+  line-height: 50px;
+  /* margin-left: -5px; */
+}
+#menu a {
+  text-decoration: none;
+  /* color: #fff; */
+  display: block;
+}
+#menu a:hover {
+  background: yellow;
+  color: #333;
+}
+
+/*==Dropdown Menu==*/
+.sub-menu {
+  display: none;
+  position: absolute;
+}
+#menu li {
+  position: relative;
+  /* margin-right: 0px; */
+}
+#menu li:hover .sub-menu {
+  display: block;
+}
+.sub-menu li {
+  margin-left: 0 !important;
+}
+
+/*==Menu cấp 3==*/
+.sub-menu > ul {
+  display: none !important;
+}
+
+.navlink {
+  border-radius: 18px;
+  margin-top: 7px;
+  height: 36px;
+  line-height: 36px;
+  color: white
+}
+
+#cell {
+  border-radius: 18px;
+  margin-top: 7px;
+  height: 36px;
+  line-height: 36px;
+  background-color: #f1f1f1;
+  padding: 12px 20px;
+  width: 200px;
+  margin-left: 0px;
+}
+
+.item-active {
+  background-color: yellow;
+	color: #8C1515;
+}
+
+.text-color-dropdown {
+  color: white
+}
+
+.SortableHelper {
+  box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 6px, rgba(0, 0, 0, 0.075) 0px 1px 4px;
+  background-color: rgba(255, 255, 255, 0.8);
+  cursor: row-resize;
+}
+
+.flex-container {
+  height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.flex-item {
+	width: 900px;
+	height: 400px;
+}
+

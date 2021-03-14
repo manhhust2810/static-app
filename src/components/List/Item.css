@@ -1,0 +1,10 @@
+.add-new-data-set{
+    max-width: 800px !important;
+    .invite-tbl {
+      tbody {
+        display: block;
+        max-height: 120px;
+        overflow-y: scroll;
+      }
+    }
+  }

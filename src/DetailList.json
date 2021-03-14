@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "d1885bc1-97d9-4ea3-aad5-191fc800d3ef",
+    "name": "Kylie",
+    "creator": "e310b134-405b-4ab8-bdaf-28fec5e8c787",
+    "memberIds": [
+      {
+        "id": "8261d750-f1db-454f-b3ec-2597602f7bd8",
+        "email": "2019nab@veritone.com",
+        "firstName": "NAB",
+        "lastName": "2019",
+        "status": "active"
+      },
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      },
+      {
+        "id": "f4163c1d-6758-40a8-9433-1d454345f6bf",
+        "email": "rupert.watson@jigsaw24.com",
+        "firstName": "Rupert",
+        "lastName": "Watson",
+        "status": "active"
+      },
+      {
+        "id": "180d6ac9-02a5-4053-9f8e-cff7b7fed00b",
+        "email": "speterson+mediademo@veritone.com",
+        "firstName": "Sven",
+        "lastName": "Peterson",
+        "status": "active"
+      },
+      {
+        "id": "83fda858-8fb2-4741-a1d7-d304dc1a20e7",
+        "email": "tringering+mediademo@veritone.com",
+        "firstName": "Tristan",
+        "lastName": "Ringering",
+        "status": "active"
+      },
+      {
+        "id": "dad2e8da-2598-4f39-8f0b-1ea061ff89c7",
+        "email": "iasher+mediademo@veritone.com",
+        "firstName": "Ilan",
+        "lastName": "Asher",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "e310b134-405b-4ab8-bdaf-28fec5e8c787",
+        "email": "kchao+mediademo@veritone.com",
+        "firstName": "Kylie",
+        "lastName": "Chao",
+        "status": "active"
+      },
+      {
+        "id": "96aaa0d3-95a0-4357-a579-1a190e1ca9af",
+        "email": "ktruong+mediademo@veritone.com",
+        "firstName": "Khuong",
+        "lastName": "Truong",
+        "status": "active"
+      },
+      {
+        "id": "b745eb04-0410-446d-a1af-440877d32a6c",
+        "email": "tmcbride+mediademo@veritone.com",
+        "firstName": "Tami",
+        "lastName": "McBride",
+        "status": "active"
+      },
+      {
+        "id": "298af11e-ced9-4bd5-acb0-0fc390264188",
+        "email": "gbateman+mediademo@veritone.com",
+        "firstName": "Garron",
+        "lastName": "Bateman",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "afe77907-b489-4823-b79d-02667454633f",
+    "name": "Testing 123",
+    "creator": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+    "memberIds": [
+      {
+        "id": "dad2e8da-2598-4f39-8f0b-1ea061ff89c7",
+        "email": "iasher+mediademo@veritone.com",
+        "firstName": "Ilan",
+        "lastName": "Asher",
+        "status": "active"
+      },
+      {
+        "id": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+        "email": "kstark+mediademo@veritone.com",
+        "firstName": "Kristin",
+        "lastName": "Stark",
+        "status": "active"
+      },
+      {
+        "id": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+        "email": "mjustus+mediademo@veritone.com",
+        "firstName": "Mike",
+        "lastName": "Justus",
+        "status": "active"
+      },
+      {
+        "id": "b616b36c-e547-4a26-b83e-09604ebe1912",
+        "email": "pmoore+mediademo@veritone.com",
+        "firstName": "Pat",
+        "lastName": "Moore",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "298af11e-ced9-4bd5-acb0-0fc390264188",
+        "email": "gbateman+mediademo@veritone.com",
+        "firstName": "Garron",
+        "lastName": "Bateman",
+        "status": "active"
+      },
+      {
+        "id": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+        "email": "kstark+mediademo@veritone.com",
+        "firstName": "Kristin",
+        "lastName": "Stark",
+        "status": "active"
+      },
+      {
+        "id": "29fb77fa-7a97-418e-b07b-001710ab3c52",
+        "email": "maris.nguyen+mediademo@setacinq.vn",
+        "firstName": "Maris",
+        "lastName": "Nguyen",
+        "status": "active"
+      },
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      },
+      {
+        "id": "b745eb04-0410-446d-a1af-440877d32a6c",
+        "email": "tmcbride+mediademo@veritone.com",
+        "firstName": "Tami",
+        "lastName": "McBride",
+        "status": "active"
+      },
+      {
+        "id": "96aaa0d3-95a0-4357-a579-1a190e1ca9af",
+        "email": "ktruong+mediademo@veritone.com",
+        "firstName": "Khuong",
+        "lastName": "Truong",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "57cdc1e5-69d7-433f-8a54-3ed0f734e65b",
+    "name": "QA_MKJ_001",
+    "creator": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+    "memberIds": [
+      {
+        "id": "dad2e8da-2598-4f39-8f0b-1ea061ff89c7",
+        "email": "iasher+mediademo@veritone.com",
+        "firstName": "Ilan",
+        "lastName": "Asher",
+        "status": "active"
+      },
+      {
+        "id": "f083fbd7-d6ac-47cd-a972-f4da6fe7efd2",
+        "email": "mjustus+0430yy@veritone.com",
+        "firstName": "MJustus",
+        "lastName": "New.04.30.20.2",
+        "status": "active"
+      },
+      {
+        "id": "08b28da9-b0e3-4a1f-940a-6ab450db832e",
+        "email": "mjustus+060920a@veritone.com",
+        "firstName": "Mike (Media Demo Share User)",
+        "lastName": "Justus",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+        "email": "mjustus+mediademo@veritone.com",
+        "firstName": "Mike",
+        "lastName": "Justus",
+        "status": "active"
+      },
+      {
+        "id": "96aaa0d3-95a0-4357-a579-1a190e1ca9af",
+        "email": "ktruong+mediademo@veritone.com",
+        "firstName": "Khuong",
+        "lastName": "Truong",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "ef20f3fc-5a6e-4450-bcd3-9937e9cd28e5",
+    "name": "Maris_0910",
+    "creator": "29fb77fa-7a97-418e-b07b-001710ab3c52",
+    "memberIds": [
+      {
+        "id": "6f7abbb2-cc57-4b02-99c1-c46c81ac323c",
+        "email": "maris.nguyen+iheart+14424@setacinq.vn",
+        "firstName": "Maris",
+        "lastName": "Nguyen",
+        "status": "active"
+      },
+      {
+        "id": "29fb77fa-7a97-418e-b07b-001710ab3c52",
+        "email": "maris.nguyen+mediademo@setacinq.vn",
+        "firstName": "Maris",
+        "lastName": "Nguyen",
+        "status": "active"
+      },
+      {
+        "id": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+        "email": "mjustus+mediademo@veritone.com",
+        "firstName": "Mike",
+        "lastName": "Justus",
+        "status": "active"
+      },
+      {
+        "id": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+        "email": "kstark+mediademo@veritone.com",
+        "firstName": "Kristin",
+        "lastName": "Stark",
+        "status": "active"
+      },
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "29fb77fa-7a97-418e-b07b-001710ab3c52",
+        "email": "maris.nguyen+mediademo@setacinq.vn",
+        "firstName": "Maris",
+        "lastName": "Nguyen",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "11cb9868-1e40-40bd-85ec-94a90535f796",
+    "name": "Hersh test",
+    "creator": "81ef44d2-d6f5-4ce6-8d9d-e8b727051ee5",
+    "memberIds": [
+      "null",
+      "null"
+    ],
+    "managerIds": []
+  },
+  {
+    "id": "9ed755b5-4bf4-4666-bf99-5f093f942a6c",
+    "name": "M_Test",
+    "creator": "cbc5b7a2-2f23-473a-b801-de73c1775e7b",
+    "memberIds": [
+      "null",
+      {
+        "id": "7dfd9943-d49a-42bc-abed-93edc1f28fcf",
+        "email": "awinn+mediademo@veritone.com",
+        "firstName": "Amy",
+        "lastName": "Winn",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "b745eb04-0410-446d-a1af-440877d32a6c",
+        "email": "tmcbride+mediademo@veritone.com",
+        "firstName": "Tami",
+        "lastName": "McBride",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "832941e7-55d2-4b79-bdce-2bc434915be1",
+    "name": "Buffalo, New York",
+    "creator": "b4655c8b-b9f0-43e0-8308-738aa4a6599d",
+    "memberIds": [
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "b4655c8b-b9f0-43e0-8308-738aa4a6599d",
+        "email": "pcramer+mediademo@veritone.com",
+        "firstName": "Paul",
+        "lastName": "Cramer",
+        "status": "active"
+      },
+      {
+        "id": "52e957a7-76c2-4441-b874-4defd2b84ecc",
+        "email": "tchakadonha+mediademo@veritone.com",
+        "firstName": "Tino",
+        "lastName": "Chakadonha",
+        "status": "active"
+      },
+      {
+        "id": "b745eb04-0410-446d-a1af-440877d32a6c",
+        "email": "tmcbride+mediademo@veritone.com",
+        "firstName": "Tami",
+        "lastName": "McBride",
+        "status": "active"
+      },
+      {
+        "id": "298af11e-ced9-4bd5-acb0-0fc390264188",
+        "email": "gbateman+mediademo@veritone.com",
+        "firstName": "Garron",
+        "lastName": "Bateman",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "a952d7d0-8f64-4e3c-92a8-4af71bd29fb6",
+    "name": "Chicago",
+    "creator": "b4655c8b-b9f0-43e0-8308-738aa4a6599d",
+    "memberIds": [
+      {
+        "id": "249a9f60-fd5e-4910-9733-5c593fec41b2",
+        "email": "jkadow+mediademo@veritone.com",
+        "firstName": "Jeanette",
+        "lastName": "Kadow",
+        "status": "active"
+      },
+      {
+        "id": "05864109-5f75-4c62-95bb-d43b78d7ef98",
+        "email": "npaulson+media@veritone.com",
+        "firstName": "Nathan",
+        "lastName": "Paulson",
+        "status": "active"
+      },
+      {
+        "id": "b4655c8b-b9f0-43e0-8308-738aa4a6599d",
+        "email": "pcramer+mediademo@veritone.com",
+        "firstName": "Paul",
+        "lastName": "Cramer",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "b4655c8b-b9f0-43e0-8308-738aa4a6599d",
+        "email": "pcramer+mediademo@veritone.com",
+        "firstName": "Paul",
+        "lastName": "Cramer",
+        "status": "active"
+      },
+      {
+        "id": "b745eb04-0410-446d-a1af-440877d32a6c",
+        "email": "tmcbride+mediademo@veritone.com",
+        "firstName": "Tami",
+        "lastName": "McBride",
+        "status": "active"
+      },
+      {
+        "id": "c2f48e4d-c573-4008-b234-42c9f6f772b3",
+        "email": "achang+mediademo@veritone.com",
+        "firstName": "Alice",
+        "lastName": "Chang",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "75a93e4f-3237-4a15-8864-6447fbe00151",
+    "name": "CS Test",
+    "creator": "cdeb1688-ddbf-4bbf-8b81-6cee8666c8fb",
+    "memberIds": [
+      "null",
+      {
+        "id": "87aab467-ccb6-4713-a2f0-246b3b6d8e10",
+        "email": "daguilar+demo@veritone.com",
+        "firstName": "David",
+        "lastName": "Aguilar",
+        "status": "active"
+      },
+      {
+        "id": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+        "email": "kstark+mediademo@veritone.com",
+        "firstName": "Kristin",
+        "lastName": "Stark",
+        "status": "active"
+      },
+      {
+        "id": "29fb77fa-7a97-418e-b07b-001710ab3c52",
+        "email": "maris.nguyen+mediademo@setacinq.vn",
+        "firstName": "Maris",
+        "lastName": "Nguyen",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "cdeb1688-ddbf-4bbf-8b81-6cee8666c8fb",
+        "email": "jrimbo+mediademo@veritone.com",
+        "firstName": "Joe",
+        "lastName": "Rimbo",
+        "status": "active"
+      },
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "a5540772-7859-417e-abae-87d2443be269",
+    "name": "Media Demo Team",
+    "creator": "f946f4e6-d701-45a0-8d37-5735086fe6b7",
+    "memberIds": [
+      {
+        "id": "e2875aae-3570-4878-8686-0f9deeb54703",
+        "email": "aredlich+mediademo@veritone.com",
+        "firstName": "Aviv",
+        "lastName": "Redlich",
+        "status": "active"
+      },
+      {
+        "id": "7dfd9943-d49a-42bc-abed-93edc1f28fcf",
+        "email": "awinn+mediademo@veritone.com",
+        "firstName": "Amy",
+        "lastName": "Winn",
+        "status": "active"
+      },
+      {
+        "id": "4f76d096-3ea7-4187-be47-881ac17cae50",
+        "email": "balger+mediademo@veritone.com",
+        "firstName": "Brian",
+        "lastName": "Alger",
+        "status": "active"
+      },
+      "null",
+      {
+        "id": "a5de81a8-1a1c-421e-b36a-b9d4f806e39e",
+        "email": "david.skeggs@jigsaw24.com",
+        "firstName": "David",
+        "lastName": "Skeggs",
+        "status": "active"
+      },
+      {
+        "id": "05c8292c-a555-4f01-9912-6346c9c37cb7",
+        "email": "drew+mediademo17@veritone.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "status": "active"
+      },
+      {
+        "id": "6966b831-f567-44e6-9cfb-f739d66c8cd5",
+        "email": "dwong+mediademo@veritone.com",
+        "firstName": "Daniel",
+        "lastName": "Wong",
+        "status": "active"
+      },
+      {
+        "id": "9a617e83-6e9b-4040-9329-a829660dc100",
+        "email": "frobison+mediademo17@veritone.com",
+        "firstName": "Fisher",
+        "lastName": "Robison",
+        "status": "active"
+      },
+      {
+        "id": "298af11e-ced9-4bd5-acb0-0fc390264188",
+        "email": "gbateman+mediademo@veritone.com",
+        "firstName": "Garron",
+        "lastName": "Bateman",
+        "status": "active"
+      },
+      {
+        "id": "06892500-66e2-4820-967c-698080746b5c",
+        "email": "gloose+demo@veritone.com",
+        "firstName": "Greg",
+        "lastName": "Loose",
+        "status": "active"
+      },
+      {
+        "id": "2e77a989-d8f3-4618-a1f7-83387ec62724",
+        "email": "jfitzgerald+media@veritone.com",
+        "firstName": "Joe",
+        "lastName": "Fitzgerald",
+        "status": "active"
+      },
+      {
+        "id": "14e22fab-c474-403e-be62-aa5e6729d9e3",
+        "email": "jfortner+media@veritone.com",
+        "firstName": "Justin",
+        "lastName": "Fortner",
+        "status": "active"
+      },
+      {
+        "id": "7dfd5b4b-bafa-445c-bdd5-6f4344ad86da",
+        "email": "jlu+mediademo@veritone.com",
+        "firstName": "Jia",
+        "lastName": "Lu",
+        "status": "active"
+      },
+      {
+        "id": "2f22721c-a08b-4945-8d6a-28e228aafd0a",
+        "email": "jmartinez+cs@veritone.com",
+        "firstName": "Customer",
+        "lastName": "Success",
+        "status": "active"
+      },
+      {
+        "id": "b292e15f-09bc-4c23-9013-67525e350021",
+        "email": "jpopovich+mediademo@veritone.com",
+        "firstName": "John",
+        "lastName": "Popovich",
+        "status": "active"
+      },
+      {
+        "id": "4af5729c-5f25-49fe-a652-da07d27b7bc8",
+        "email": "jrivera+media@veritone.com",
+        "firstName": "Joe",
+        "lastName": "Rivera",
+        "status": "active"
+      },
+      {
+        "id": "1f27be24-fc23-46ae-92c6-0fbf46f05716",
+        "email": "kjoshi+media@veritone.com",
+        "firstName": "Kevin",
+        "lastName": "Joshi",
+        "status": "active"
+      },
+      {
+        "id": "5d1a1044-11d2-42da-bd23-be1a0c74d3ea",
+        "email": "lketchum+mediademo@veritone.com",
+        "firstName": "Logan",
+        "lastName": "Ketchum",
+        "status": "active"
+      },
+      {
+        "id": "c86c16b0-d67c-4a79-99c3-082a89a448ef",
+        "email": "max.heiderscheid+mediademo@uicentric.com",
+        "firstName": "Max",
+        "lastName": "Heiderscheid",
+        "status": "active"
+      },
+      {
+        "id": "ac7a3aef-7129-420d-956c-e4f5e1001988",
+        "email": "megan.mellring+mediademo@veritone.com",
+        "firstName": "Megan",
+        "lastName": "Mellring",
+        "status": "active"
+      },
+      {
+        "id": "f11ddd97-b2bb-41d7-8c80-9614d5eec26b",
+        "email": "mmorper+mediademo@veritone.com",
+        "firstName": "Mike",
+        "lastName": "Morper",
+        "status": "active"
+      },
+      {
+        "id": "a7f61d9c-4e60-43ef-bf07-9c2723deae9c",
+        "email": "moulard_demo@actuonda.com",
+        "firstName": "Nicolas",
+        "lastName": "Moulard",
+        "status": "active"
+      },
+      {
+        "id": "05864109-5f75-4c62-95bb-d43b78d7ef98",
+        "email": "npaulson+media@veritone.com",
+        "firstName": "Nathan",
+        "lastName": "Paulson",
+        "status": "active"
+      },
+      {
+        "id": "a62d72e6-a780-416b-a299-2c86dcc42b4e",
+        "email": "ppagano+mediademo@veritone.com",
+        "firstName": "Patrice",
+        "lastName": "Pagano",
+        "status": "active"
+      },
+      {
+        "id": "f4163c1d-6758-40a8-9433-1d454345f6bf",
+        "email": "rupert.watson@jigsaw24.com",
+        "firstName": "Rupert",
+        "lastName": "Watson",
+        "status": "active"
+      },
+      {
+        "id": "e2ec0ff1-d8c3-48a5-8d2e-814b293ff840",
+        "email": "rvidyadharan+mediademo@veritone.com",
+        "firstName": "Rakesh",
+        "lastName": "Vidyadharan",
+        "status": "active"
+      },
+      {
+        "id": "83fda858-8fb2-4741-a1d7-d304dc1a20e7",
+        "email": "tringering+mediademo@veritone.com",
+        "firstName": "Tristan",
+        "lastName": "Ringering",
+        "status": "active"
+      },
+      {
+        "id": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+        "email": "kstark+mediademo@veritone.com",
+        "firstName": "Kristin",
+        "lastName": "Stark",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "33b74e0f-03b9-421e-9f54-80fde7d67ea2",
+        "email": "2019ibc@veritone.com",
+        "firstName": "IBC",
+        "lastName": "2019",
+        "status": "active"
+      },
+      {
+        "id": "8261d750-f1db-454f-b3ec-2597602f7bd8",
+        "email": "2019nab@veritone.com",
+        "firstName": "NAB",
+        "lastName": "2019",
+        "status": "active"
+      },
+      {
+        "id": "42b67fef-7634-4aa4-aa6f-be7dcb0a4f6d",
+        "email": "abailey+mediademo@veritone.com",
+        "firstName": "Ashley",
+        "lastName": "Bailey",
+        "status": "active"
+      },
+      {
+        "id": "c2f48e4d-c573-4008-b234-42c9f6f772b3",
+        "email": "achang+mediademo@veritone.com",
+        "firstName": "Alice",
+        "lastName": "Chang",
+        "status": "active"
+      },
+      {
+        "id": "f946f4e6-d701-45a0-8d37-5735086fe6b7",
+        "email": "bedwards+media@veritone.com",
+        "firstName": "Brianna",
+        "lastName": "Edwards",
+        "status": "active"
+      },
+      {
+        "id": "f383add0-2cca-4ad9-b05d-471b8b510302",
+        "email": "bha+mediademo@veritone.com",
+        "firstName": "Ben",
+        "lastName": "Ha",
+        "status": "active"
+      },
+      {
+        "id": "747c10df-91c8-47e8-a54c-2855511cf19d",
+        "email": "cdagostini+demo@veritone.com",
+        "firstName": "Christy",
+        "lastName": "DAgostini",
+        "status": "active"
+      },
+      "null",
+      {
+        "id": "87aab467-ccb6-4713-a2f0-246b3b6d8e10",
+        "email": "daguilar+demo@veritone.com",
+        "firstName": "David",
+        "lastName": "Aguilar",
+        "status": "active"
+      },
+      {
+        "id": "51fde6bf-0b16-493e-a6a8-c505d0cffbb2",
+        "email": "dcandler+mediademo@veritone.com",
+        "firstName": "David",
+        "lastName": "Candler",
+        "status": "active"
+      },
+      {
+        "id": "83351e0c-1551-43e7-9023-ff9e8bb80c53",
+        "email": "dhilles+mediademo2@veritone.com",
+        "firstName": "Drew",
+        "lastName": "Hilles",
+        "status": "active"
+      },
+      {
+        "id": "348c6ae4-23ce-462a-8350-67f0274862d5",
+        "email": "dhilles+mediademo@veritone.com",
+        "firstName": "Drew",
+        "lastName": "Hilles",
+        "status": "active"
+      },
+      {
+        "id": "298af11e-ced9-4bd5-acb0-0fc390264188",
+        "email": "gbateman+mediademo@veritone.com",
+        "firstName": "Garron",
+        "lastName": "Bateman",
+        "status": "active"
+      },
+      {
+        "id": "189a837a-6525-44fd-a440-adb18e2e8b83",
+        "email": "gfernandez+mediademo@veritone.com",
+        "firstName": "Greg",
+        "lastName": "Fernandez",
+        "status": "active"
+      },
+      {
+        "id": "8f40b3eb-f94f-48e1-ac15-edf797e63da3",
+        "email": "gloose+mediademo@veritone.com",
+        "firstName": "Greg",
+        "lastName": "Loose",
+        "status": "active"
+      },
+      {
+        "id": "83957b73-ef4c-4f3d-9888-799fd8626c24",
+        "email": "hector+mediademo@veritone.com",
+        "firstName": "Hector",
+        "lastName": "Morales",
+        "status": "active"
+      },
+      {
+        "id": "dad2e8da-2598-4f39-8f0b-1ea061ff89c7",
+        "email": "iasher+mediademo@veritone.com",
+        "firstName": "Ilan",
+        "lastName": "Asher",
+        "status": "active"
+      },
+      {
+        "id": "6c05559e-a4a8-41f2-87ed-8cec8a42f8a9",
+        "email": "jenn@gulfcoastpixel.com",
+        "firstName": "Jennifer",
+        "lastName": "Made By Munster",
+        "status": "active"
+      },
+      {
+        "id": "249a9f60-fd5e-4910-9733-5c593fec41b2",
+        "email": "jkadow+mediademo@veritone.com",
+        "firstName": "Jeanette",
+        "lastName": "Kadow",
+        "status": "active"
+      },
+      {
+        "id": "25c9dcb1-846a-48f2-897f-3385236b4adb",
+        "email": "jobrien+mediademo@veritone.com",
+        "firstName": "Jacob",
+        "lastName": "O'Brien",
+        "status": "active"
+      },
+      {
+        "id": "f11bc395-6ee0-4c82-ae11-736ee2c736d1",
+        "email": "joey.kirk@madebymunsters.com",
+        "firstName": "Joey",
+        "lastName": "Kirk",
+        "status": "active"
+      },
+      {
+        "id": "cdeb1688-ddbf-4bbf-8b81-6cee8666c8fb",
+        "email": "jrimbo+mediademo@veritone.com",
+        "firstName": "Joe",
+        "lastName": "Rimbo",
+        "status": "active"
+      },
+      {
+        "id": "e310b134-405b-4ab8-bdaf-28fec5e8c787",
+        "email": "kchao+mediademo@veritone.com",
+        "firstName": "Kylie",
+        "lastName": "Chao",
+        "status": "active"
+      },
+      {
+        "id": "f37dfe9c-15cd-4581-9c6f-d2b62905fe7a",
+        "email": "kmyers+mediademo@veritone.com",
+        "firstName": "Kim",
+        "lastName": "Myers",
+        "status": "active"
+      },
+      {
+        "id": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+        "email": "kstark+mediademo@veritone.com",
+        "firstName": "Kristin",
+        "lastName": "Stark",
+        "status": "active"
+      },
+      {
+        "id": "96aaa0d3-95a0-4357-a579-1a190e1ca9af",
+        "email": "ktruong+mediademo@veritone.com",
+        "firstName": "Khuong",
+        "lastName": "Truong",
+        "status": "active"
+      },
+      {
+        "id": "77029f91-4ee1-4b43-b3a9-8fbfc511e2e0",
+        "email": "minh.hoang+mediademo@setacinq.vn",
+        "firstName": "Minh",
+        "lastName": "Hoang",
+        "status": "active"
+      },
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      },
+      {
+        "id": "6aa84bc3-3f71-46aa-8372-69b681273a6a",
+        "email": "mrodriguez+mediademo@veritone.com",
+        "firstName": "Missael",
+        "lastName": "Rodriguez",
+        "status": "active"
+      },
+      {
+        "id": "b4655c8b-b9f0-43e0-8308-738aa4a6599d",
+        "email": "pcramer+mediademo@veritone.com",
+        "firstName": "Paul",
+        "lastName": "Cramer",
+        "status": "active"
+      },
+      {
+        "id": "b616b36c-e547-4a26-b83e-09604ebe1912",
+        "email": "pmoore+mediademo@veritone.com",
+        "firstName": "Pat",
+        "lastName": "Moore",
+        "status": "active"
+      },
+      {
+        "id": "8ed7165e-cbe9-42df-9c34-f9e86953e663",
+        "email": "rakeel+mediademo@veritone.com",
+        "firstName": "Randa",
+        "lastName": "Akeel",
+        "status": "active"
+      },
+      {
+        "id": "95c654d8-fb8f-4d71-ad1a-b55cbb12a337",
+        "email": "rsteelberg+mediademo@veritone.com",
+        "firstName": "Ryan",
+        "lastName": "Steelberg",
+        "status": "active"
+      },
+      {
+        "id": "180d6ac9-02a5-4053-9f8e-cff7b7fed00b",
+        "email": "speterson+mediademo@veritone.com",
+        "firstName": "Sven",
+        "lastName": "Peterson",
+        "status": "active"
+      },
+      {
+        "id": "cbc5b7a2-2f23-473a-b801-de73c1775e7b",
+        "email": "tan.pham+mediademo@setacinq.vn",
+        "firstName": "Tan",
+        "lastName": "Pham",
+        "status": "active"
+      },
+      {
+        "id": "52e957a7-76c2-4441-b874-4defd2b84ecc",
+        "email": "tchakadonha+mediademo@veritone.com",
+        "firstName": "Tino",
+        "lastName": "Chakadonha",
+        "status": "active"
+      },
+      {
+        "id": "b745eb04-0410-446d-a1af-440877d32a6c",
+        "email": "tmcbride+mediademo@veritone.com",
+        "firstName": "Tami",
+        "lastName": "McBride",
+        "status": "active"
+      },
+      {
+        "id": "634c9d29-6c40-4286-92ed-8da41ff37d6d",
+        "email": "yzhang+mediademo@veritone.com",
+        "firstName": "Viva",
+        "lastName": "Zhang",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "80fa04ed-a95e-48e1-adf0-87d7477f8997",
+    "name": "TP",
+    "creator": "cbc5b7a2-2f23-473a-b801-de73c1775e7b",
+    "memberIds": [
+      {
+        "id": "77029f91-4ee1-4b43-b3a9-8fbfc511e2e0",
+        "email": "minh.hoang+mediademo@setacinq.vn",
+        "firstName": "Minh",
+        "lastName": "Hoang",
+        "status": "active"
+      },
+      {
+        "id": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+        "email": "mjustus+mediademo@veritone.com",
+        "firstName": "Mike",
+        "lastName": "Justus",
+        "status": "active"
+      },
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "cbc5b7a2-2f23-473a-b801-de73c1775e7b",
+        "email": "tan.pham+mediademo@setacinq.vn",
+        "firstName": "Tan",
+        "lastName": "Pham",
+        "status": "active"
+      },
+      {
+        "id": "96aaa0d3-95a0-4357-a579-1a190e1ca9af",
+        "email": "ktruong+mediademo@veritone.com",
+        "firstName": "Khuong",
+        "lastName": "Truong",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "bdbb0775-a1e5-41a3-8cae-cbb6dc555e45",
+    "name": "Demo Team",
+    "creator": "249a9f60-fd5e-4910-9733-5c593fec41b2",
+    "memberIds": [
+      {
+        "id": "298af11e-ced9-4bd5-acb0-0fc390264188",
+        "email": "gbateman+mediademo@veritone.com",
+        "firstName": "Garron",
+        "lastName": "Bateman",
+        "status": "active"
+      },
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      },
+      {
+        "id": "b4655c8b-b9f0-43e0-8308-738aa4a6599d",
+        "email": "pcramer+mediademo@veritone.com",
+        "firstName": "Paul",
+        "lastName": "Cramer",
+        "status": "active"
+      },
+      {
+        "id": "c2f48e4d-c573-4008-b234-42c9f6f772b3",
+        "email": "achang+mediademo@veritone.com",
+        "firstName": "Alice",
+        "lastName": "Chang",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "8f40b3eb-f94f-48e1-ac15-edf797e63da3",
+        "email": "gloose+mediademo@veritone.com",
+        "firstName": "Greg",
+        "lastName": "Loose",
+        "status": "active"
+      },
+      {
+        "id": "249a9f60-fd5e-4910-9733-5c593fec41b2",
+        "email": "jkadow+mediademo@veritone.com",
+        "firstName": "Jeanette",
+        "lastName": "Kadow",
+        "status": "active"
+      },
+      {
+        "id": "628ce2ea-af9a-4b84-b773-ee27c59582da",
+        "email": "ltruong+mediademo@veritone.com",
+        "firstName": "Locke",
+        "lastName": "Truong",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "a5320e1a-c27f-40bd-814a-51c88a1829d7",
+    "name": "Kim",
+    "creator": "f37dfe9c-15cd-4581-9c6f-d2b62905fe7a",
+    "memberIds": [
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "f37dfe9c-15cd-4581-9c6f-d2b62905fe7a",
+        "email": "kmyers+mediademo@veritone.com",
+        "firstName": "Kim",
+        "lastName": "Myers",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "025dde42-d6de-4715-be9c-818e9e9609da",
+    "name": "MJustus - Veritone Internal.1a",
+    "creator": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+    "memberIds": [
+      {
+        "id": "f083fbd7-d6ac-47cd-a972-f4da6fe7efd2",
+        "email": "mjustus+0430yy@veritone.com",
+        "firstName": "MJustus",
+        "lastName": "New.04.30.20.2",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+        "email": "mjustus+mediademo@veritone.com",
+        "firstName": "Mike",
+        "lastName": "Justus",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "12e27561-8f40-430f-bf53-2fb7676f5522",
+    "name": "Dat Tran to debug",
+    "creator": "577bf736-e3ff-466f-b242-99d0aee28fa1",
+    "memberIds": [
+      {
+        "id": "f14e2c99-6a88-499b-8547-7740c7322e25",
+        "email": "mkennedy+mediademo@veritone.com",
+        "firstName": "Michael",
+        "lastName": "Kennedy",
+        "status": "active"
+      },
+      {
+        "id": "29fb77fa-7a97-418e-b07b-001710ab3c52",
+        "email": "maris.nguyen+mediademo@setacinq.vn",
+        "firstName": "Maris",
+        "lastName": "Nguyen",
+        "status": "active"
+      },
+      {
+        "id": "46e36bbf-66ba-4c4c-8676-73a6b4091331",
+        "email": "mjustus+mediademo@veritone.com",
+        "firstName": "Mike",
+        "lastName": "Justus",
+        "status": "active"
+      },
+      {
+        "id": "cd77257d-5eef-42d5-b80d-cefd5ba08cff",
+        "email": "kstark+mediademo@veritone.com",
+        "firstName": "Kristin",
+        "lastName": "Stark",
+        "status": "active"
+      }
+    ],
+    "managerIds": [
+      {
+        "id": "577bf736-e3ff-466f-b242-99d0aee28fa1",
+        "email": "dat.tran+mediademo@setacinq.vn",
+        "firstName": "Dat",
+        "lastName": "Tran",
+        "status": "active"
+      }
+    ]
+  }
+]
